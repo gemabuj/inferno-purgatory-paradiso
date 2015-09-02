@@ -4,7 +4,7 @@ title: Using the Web Icons
 category: Design
 
 excerpt: Quick overview on how to use the Typicon web font icons included with this template. 
-
+comments: true
 ---
 
 This template uses [Typicons][ty] web font, provided by [Fontello][fo] font bundling service. It allows you to quickly
